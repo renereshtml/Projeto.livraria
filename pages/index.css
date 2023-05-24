@@ -1,0 +1,10 @@
+topo h1 {
+    color : red;
+    text-align: center;
+}
+#topo h2 {
+    text-align: center;
+}
+.destaques h2 {
+    color: blue;
+}
